@@ -7,6 +7,8 @@
  Compile: 
  -----------
  	Put whatever package you want to install in packages.txt file LINE BY LINE. 
+ 	Note: make sure you reserve a last void line for the script to run
+ 	properly.
 
  	Open terminal in the same directory and run:
 

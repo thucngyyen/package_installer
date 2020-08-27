@@ -1,1 +1,1 @@
-gnome-tweaks
+gnome-tweak
