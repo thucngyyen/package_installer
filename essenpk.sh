@@ -2,8 +2,8 @@
 # Filename: esenpk.sh 
 # Author: Thuc Nguyen
 # File description: this is the main driver of the program
-#					that reads through packages.txt line by
-#					line and calls install command each.
+#                   that reads through packages.txt line by
+#                   line and calls install command each.
 #####################################################################
 
 #!/bin/bash
