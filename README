@@ -1,0 +1,13 @@
+/*
+ *
+ * Author: Thuc Nguyen
+ *
+ */
+
+ Compile: 
+ -----------
+ 	Put whatever package you want to install in packages.txt file LINE BY LINE. 
+
+ 	Open terminal in the same directory and run:
+
+ 		sudo ./essenpk
