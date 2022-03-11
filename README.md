@@ -1,7 +1,3 @@
-# Filename: README.md
-
-# Author: Thuc Nguyen
-
 ## Description:
 
 This simple script installs packages that are listed in the packages.txt file. It also updates and upgrades your applications.
